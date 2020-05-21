@@ -1,0 +1,6 @@
+music21
+numpy
+scipy
+scikit-learn
+pandas
+matplotlib
